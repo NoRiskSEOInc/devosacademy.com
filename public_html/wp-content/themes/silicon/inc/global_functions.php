@@ -522,7 +522,7 @@ function silicon_get_header_widget($type)
 				<input type="submit" id="searchsubmit" value="<?php echo esc_attr__('Search', TD); ?>" />
 			</form>
 -->
-			<p class='address'><span><h2>Call Us Today ! <font size="5", face="times, serif">(305) 763-8114</font></h2></span> 960 Arthur Godfrey Road #322  
+			<p class='address'><span><h2>Call Us Today ! <font size="5", face="times, serif">(305) 842-4260</font></h2></span> 960 Arthur Godfrey Road #322  
 Miami Beach, FL 33140</p>
 			<!-- end: search -->
 			<?php
